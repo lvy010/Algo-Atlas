@@ -1,5 +1,4 @@
-leetcode完整版原文截图[](lvy_space/leetcode/Share the original text.md)
-
+[leetcode题单分享_原文截图](./Share_the_original_text.md)）
 
 
 ##### Plan
