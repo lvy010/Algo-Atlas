@@ -1,3 +1,7 @@
+leetcode完整版原文截图[](lvy_space/leetcode/Share the original text.md)
+
+
+
 ##### Plan
 
 待整理注释上传的模板
