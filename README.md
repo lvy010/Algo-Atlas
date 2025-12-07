@@ -212,20 +212,30 @@ idea:周计划打卡
 
 ![x](./png/x.png)
 
-#### example content 
-从零开始的Linux学习之路
+### example content 
+
+#### 从零开始的Linux学习之路
+
 ![Linux](./png/linux.png)
 
-从零开始的Mysql学习之路
+#### 从零开始的LLM学习之路
+
+![LLM](./png/llm.png)
+
+#### 从零开始的Mysql学习之路
+
 ![MySQL](./png/mysql.png)
 
-从零开始的Redis学习之路
+#### 从零开始的Redis学习之路
+
 ![Redis](./png/redis.png)
 
-从零开始的C++源码学习之路
-![C++2](./png/cpp2.png)
+#### 从零开始的C++源码学习之路
 
-从零开始的CUDA学习之路
+![C++](./png/cpp2.png)
+
+#### 从零开始的CUDA学习之路
+
 ![CUDA](./png/cuda.png)
 
 ... ...(more)
