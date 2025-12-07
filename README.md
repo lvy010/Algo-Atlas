@@ -193,19 +193,42 @@ idea:周计划打卡
 - 后续star数多的话，计划把这个仓库的题单做成周计划
 - 制定一个学习＆交流＆共创的协议，可以在仓库下建分支，创建自己的打卡学习时间线，每天在分支下提交自己对所刷题目的注释代码/自我复盘/笔记/写写画画/碎碎念...过段时间自己回看会发现很有趣的
 
-如果有机会我会尝试去创建/协助营造一个这样的学习空间，详见repo:[Openmind](https://github.com/lvy010/OpenMind)（in process）
+如果有机会我会尝试去创建/协助营造一个这样的学习空间，详见repo:[Openmind](https://github.com/lvy010/OpenMind)（in process）,欢迎mark & start
 
 -------
 
 ### to do list
-1. ~~调整.md格式(√12.6)~~
-2. 待整理注释上传的模板，有好的模板大家也可以在仓库中分享开源出来
+待整理注释上传模板[png](./png/test.png)，有好的模板大家也可以在仓库中分享开源出来
 
 **期待一切有助于学习&进步的建议与共创~可以直接提issue/email me**
+------
+## 算法之外(in process)
 
-![png](./png/test.png)
+后续计划对系列文章进行总结整理，更新至repo:[X-Plore](https://github.com/lvy010/ThoughtMap)/从零开始的X学习之路 下
 
+内容比较多，可能需要一些时间，大家可以先mark一下，有什么感兴趣的想先看到，可以在issue中对↓专栏文章进行投票(in process)
+
+！[x](./png/x.png)
+
+#### example content 
+从零开始的Linux学习之路
+![Linux](./png/linux.png)
+
+从零开始的Mysql学习之路
+![MySQL](./png/mysql.png)
+
+从零开始的Redis学习之路
+![Redis](./png/redis.png)
+
+从零开始的C++源码学习之路
+![C++2](./png/cpp2.png)
+
+从零开始的CUDA学习之路
+![CUDA](./png/cuda.png)
+
+... ...(more)
 -------
+
 附录：第一版原文中[算法之外]部分提到的一些内容--传送门：
 - 去年的总结[C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)
 - 整活mygo做主题的时候可能是最有行动力的一集了...[Typora-mygo-theme](https://github.com/lvy010/Typora-lvy-theme)
