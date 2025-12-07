@@ -208,7 +208,7 @@ idea:周计划打卡
 
 内容比较多，可能需要一些时间，大家可以先mark一下，有什么感兴趣的想先看到，可以在issue中对↓专栏文章进行投票(in process)
 
-！[x](./png/x.png)
+![x](./png/x.png)
 
 #### example content 
 从零开始的Linux学习之路
