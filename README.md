@@ -17,8 +17,6 @@
 
 将网上丰富的学习资源 (网课+博客+资料..) 系统整理一份笔记
 
-（感兴趣的朋友可以跳转 [github/lvy010/ThoughtMap](https://github.com/lvy010/ThoughtMap)，所有的学习笔记都是开源的，详见仓库 README）
-
 有了自己的框架之后刷题大脑就可以自动归档，可以参考下面分类
 
 - [100道典型例题](https://blog.csdn.net/2301_80171004/category_12905665.html)
@@ -159,7 +157,8 @@
   ![draw.io 示例](./png/draw_io_test.png)
 - **xmind**
   导图工具：以前几天每日一题中的区间贪心为例，可以借助导图清晰梳理题解（参考 [\[贪心_9\] 合并区间 | 无重叠区间 | 用最少数量的箭引爆气球](https://lvynote.blog.csdn.net/article/details/147539504)）。
-- **Goodnotes**iPad 手绘工具：多种颜色画笔，可以清晰地对下面三个部分进行写写画画。
+- **Goodnotes**
+  iPad 手绘工具：多种颜色画笔，可以清晰地对下面三个部分进行写写画画。
 
   1. 写代码前：模拟代码，例如 [N 皇后 | 有效的数独](https://lvynote.blog.csdn.net/article/details/146631296)。
   2. 写代码后：梳理代码，以 [正则表达式匹配](https://lvynote.blog.csdn.net/article/details/147333088) 为例，提炼关键状态转移并总结心得。
