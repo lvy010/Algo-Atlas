@@ -1,5 +1,3 @@
-仓库由来：[leetcode题单分享_第一版完整的原文截图](https://github.com/lvy010/algo-together/blob/main/Share_the_original_text.md)
-
 # 从零开始的算法学习之路
 **Re:Algo - Starting Algorithms from Zero**
 
@@ -17,18 +15,16 @@
 
 将网上丰富的学习资源 (网课+博客+资料..) 系统整理一份笔记
 
-有了自己的框架之后刷题大脑就可以自动归档，可以参考下面分类
+有了自己的框架之后刷题大脑可以自动归档，可以参考下面分类来搭建自己的框架
 
-- [100道典型例题](https://blog.csdn.net/2301_80171004/category_12905665.html)
-- [递归，搜索与回溯](https://blog.csdn.net/2301_80171004/category_12921893.html)
-- [动态规划](https://blog.csdn.net/2301_80171004/category_12931746.html)
-- [贪心算法](https://blog.csdn.net/2301_80171004/category_12954242.html)
+ - [100道典型例题](#100道典型例题)
+ - [递归，搜索与回溯](#递归搜索与回溯)
+ - [动态规划](#动态规划)
+ - [贪心算法](#贪心算法)
 
-下面是概览的标题 点击就可以跳转到专栏链接，大家可以做参考来搭建自己的框架
+下面是概览的标题，点击可以跳转到我整理的题解
 
 #### 100道典型例题
-
-[Lc优选算法_100](https://blog.csdn.net/2301_80171004/category_12905665.html)
 
 1. [\[Lc\(1\)双指针_1\] 移动零 | 复写零 | 快乐数](https://lvynote.blog.csdn.net/article/details/145915942)
 2. [\[Lc\(1\)双指针_3\] 双指针 | 三数 | 四数之和](https://lvynote.blog.csdn.net/article/details/145950432)
@@ -60,7 +56,7 @@
 
 总结详见：[\[Lc_1 递归\] 递归，搜索与回溯总结 | 详解汉诺塔问题](https://lvynote.blog.csdn.net/article/details/146394374)
 
-[Lc递归，搜索与回溯](https://blog.csdn.net/2301_80171004/category_12921893.html)
+[Lc递归，搜索与回溯]
 
 1. [\[Lc_1 递归\] 递归，搜索与回溯总结 | 详解汉诺塔问题](https://lvynote.blog.csdn.net/article/details/146394374)
 2. [\[Lc_1 递归_2\] 合并两个有序链表 | 反转链表 | 两两交换链表中的节点 | Pow\(x, n\)-快速幂](https://lvynote.blog.csdn.net/article/details/146417585)
@@ -86,7 +82,7 @@
 
 0基础可以先通过[\[dp_0\] 第 N 个泰波那契数 | 三步问题](https://lvynote.blog.csdn.net/article/details/146769412)建立直觉
 
-[动态规划](https://blog.csdn.net/2301_80171004/category_12931746.html)
+[动态规划]
 
 1. [\[dp_0\] 第 N 个泰波那契数 | 三步问题](https://lvynote.blog.csdn.net/article/details/146769412)
 2. [\[dp_1\] 使用最小花费爬楼梯 | 解码方法 | 虚拟dp\[0\]=0](https://lvynote.blog.csdn.net/article/details/146959182)
@@ -131,7 +127,7 @@
 
 可以从[\[贪心_1\] 介绍 | 柠檬水找零](https://lvynote.blog.csdn.net/article/details/147386582)等题目入手，体会贪心策略如何落地。
 
-[贪心算法](https://blog.csdn.net/2301_80171004/category_12954242.html)
+[贪心算法]
 
 1. [\[贪心_1\] 介绍 | 柠檬水找零](https://lvynote.blog.csdn.net/article/details/147386582)
 2. [\[贪心_2\] \(含证明\)将数组和减半的最少操作次数 | 最大数](https://lvynote.blog.csdn.net/article/details/147398154)
@@ -158,7 +154,7 @@
 - **xmind**
   导图工具：以前几天每日一题中的区间贪心为例，可以借助导图清晰梳理题解（参考 [\[贪心_9\] 合并区间 | 无重叠区间 | 用最少数量的箭引爆气球](https://lvynote.blog.csdn.net/article/details/147539504)）。
 - **Goodnotes**
-  iPad 手绘工具：多种颜色画笔，可以清晰地对下面三个部分进行写写画画。
+  iPad 手绘工具：多种颜色画笔，可以清晰地对下面2个部分进行写写画画。
 
   1. 写代码前：模拟代码，例如 [N 皇后 | 有效的数独](https://lvynote.blog.csdn.net/article/details/146631296)。
   2. 写代码后：梳理代码，以 [正则表达式匹配](https://lvynote.blog.csdn.net/article/details/147333088) 为例，提炼关键状态转移并总结心得。
@@ -171,7 +167,7 @@
 
 ### 3. 刷题练习
 
-“工欲善其事必先利其器”，配置好环境可以让坐在电脑前刷题变的更加快乐：[VSCode配置LeetCode调试环境](https://lvynote.blog.csdn.net/article/details/145949237)
+“工欲善其事必先利其器”，配置好环境可以让坐在电脑前刷题变的更加快乐：[VSCode配置LeetCode调试环境](https://lvynote.blog.csdn.net/article/details/145949237)（I love vscode）
 
 题单：灵神的伟大无需多言(ㄒoㄒ）[分享｜如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
 
@@ -192,7 +188,7 @@ idea:周计划打卡
 - 后续star数多的话，计划把这个仓库的题单做成周计划
 - 制定一个学习＆交流＆共创的协议，可以在仓库下建分支，创建自己的打卡学习时间线，每天在分支下提交自己对所刷题目的注释代码/自我复盘/笔记/写写画画/碎碎念...过段时间自己回看会发现很有趣的
 
-如果有机会我会尝试去创建/协助营造一个这样的学习空间，详见repo:[Openmind](https://github.com/lvy010/OpenMind)（in process）,欢迎mark & start
+如果有机会我会尝试去创建/协助营造一个这样的学习空间，详见repo:[Openmind](https://github.com/lvy010/OpenMind)（in process）,欢迎mark
 
 -------
 
@@ -207,7 +203,7 @@ idea:周计划打卡
 
 后续计划对系列文章进行总结整理，更新至repo:[X-Plore](https://github.com/lvy010/ThoughtMap)/从零开始的X学习之路 下
 
-内容比较多，可能需要一些时间，大家可以先mark一下，有什么感兴趣的想先看到，可以在issue中对↓专栏文章进行投票(in process)
+内容比较多，需要一些时间，可以先mark一下，有什么感兴趣的想先看到，可以在issue中对↓专栏文章进行投票(in process)
 
 ![x](./png/x.png)
 
@@ -241,8 +237,7 @@ idea:周计划打卡
 
 
 -------
-
-附录：第一版原文中[算法之外]部分提到的一些内容--传送门：
-- 去年的总结[C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)
-- 整活mygo做主题的时候可能是最有行动力的一集了...[Typora-mygo-theme](https://github.com/lvy010/Typora-lvy-theme)
+附录：
+"那一天,人们回想起了这个仓库的起因,那篇被删掉的文章..."
+仓库由来：[leetcode题单分享_第一版完整的原文截图](https://github.com/lvy010/Algo-Atlas/blob/main/Share_the_original_text.md)原文因为一些原因已经不存在了，这是一份备份，里面有创作的心路历程和初心。
 
