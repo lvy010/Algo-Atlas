@@ -181,7 +181,20 @@
 
 ---------
 
-> 欢迎大家提issue/pr: 完善题单/补充想法/提出问题/学习交流٩( 'ω' )و
+### 使用指南
+
+- git clone 到本地，用 Typora 打开，可以直接对源.md文件进行自己的批注
+- 所有笔记 & 代码均为开源，支持自由获取/引用/改造，二创可以fork一份
+
+tips:如果没使用过 GitHub，复制仓库链接给 AI 并提问——“我该如何把这个仓库 clone 到本地打开并使用”，碰到问题继续追问 AI，刚好实践学一下GitHub使用方法~
+-----
+
+### to do list
+待整理注释上传模板[png](./png/test.png)，有好的模板大家也可以在仓库中分享开源出来
+
+> 欢迎大家提issue/pr: 完善题单/补充想法/提出问题/学习交流...more٩( 'ω' )و
+
+------
 
 idea:周计划打卡
 
@@ -190,20 +203,14 @@ idea:周计划打卡
 
 如果有机会我会尝试去创建/协助营造一个这样的学习空间，详见repo:[Openmind](https://github.com/lvy010/OpenMind)（in process）,欢迎mark
 
--------
-
-### to do list
-待整理注释上传模板[png](./png/test.png)，有好的模板大家也可以在仓库中分享开源出来
-
 **期待一切有助于学习&进步的建议与共创~可以直接提issue/email me**
-
 
 ------
 ## 算法之外(in process)
 
 后续计划对系列文章进行总结整理，更新至repo:[X-Plore](https://github.com/lvy010/ThoughtMap)/从零开始的X学习之路 下
 
-内容比较多，需要一些时间，可以先mark一下，有什么感兴趣的想先看到，可以在issue中对↓专栏文章进行投票(in process)
+内容比较多，需要一些时间，可以先mark一下，有什么感兴趣的想先看到，可以在issue中对↓专栏文章进行选题投票(in process)
 
 ![x](./png/x.png)
 
